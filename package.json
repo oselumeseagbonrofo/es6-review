@@ -1,0 +1,15 @@
+{
+  "name": "es6-review",
+  "version": "0.0.1",
+  "description": "My class illustration on es6",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "author": "Oselumese Agbonrofo",
+  "license": "MIT",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
